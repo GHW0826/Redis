@@ -3,7 +3,7 @@
 - 필요할 때마다 디렉토리를 추가하고, 예제 코드/실험 결과를 함께 정리할 예정.
 
 
-# Redis
+# [Redis](https://redis-docs.ru/)
 Redis는 인메모리 기반의 Key-Value 데이터 스토어
 
 - In-Memory: 대부분의 데이터를 메모리에 올려놓고 사용 → 매우 빠른 응답 속도
