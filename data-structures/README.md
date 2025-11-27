@@ -8,10 +8,12 @@
         <summary>Append</summary>
       </details>
     </li>
+    <li>
+      <details>
+        <summary>Decr</summary>
+      </details>
+    </li>
   </ul>
-  <details>
-    <summary>Decr</summary>
-  </details>
   <details>
     <summary>Decrby</summary>
   </details>
