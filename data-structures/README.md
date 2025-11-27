@@ -66,13 +66,55 @@
     <summary>SubStr</summary>
   </details>
 </details>
+<br>
+
+# [List](https://redis-docs.ru/develop/data-types/lists/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=list)</summary>
+</details>
+<br>
+
+# [Set](https://redis-docs.ru/develop/data-types/sets/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=set)</summary>
+</details>
+<br>
 
 
-# [Hash]()
-# List
-# Set
-# Sorted set
-# Stream
-# Bitmap
-# Bitfield
-# Geospatial
+# [Hash](https://redis-docs.ru/develop/data-types/hashes/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=hash)</summary>
+</details>
+<br>
+
+# [Sorted set](https://redis-docs.ru/develop/data-types/sorted-sets/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=sorted-set)</summary>
+</details>
+<br>
+
+# [Stream](https://redis-docs.ru/develop/data-types/streams/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=stream)</summary>
+</details>
+<br>
+
+# [Geospatial](https://redis-docs.ru/develop/data-types/geospatial/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=geo)</summary>
+</details>
+<br>
+
+# [Bitmap](https://redis-docs.ru/develop/data-types/bitmaps/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/?group=bitmap)</summary>
+</details>
+<br>
+
+# [Bitfield](https://redis-docs.ru/develop/data-types/bitfields/)
+<details>
+<summary>[Command](https://redis-docs.ru/commands/bitfield/)</summary>
+</details>
+<br>
+
+
