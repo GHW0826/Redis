@@ -1,10 +1,14 @@
 
 # [String](https://redis-docs.ru/develop/data-types/strings/)
 <details>
-<summary>[Command](https://redis-docs.ru/commands/?group=string)</summary>
-  <details>
-    <summary>Append</summary>
-  </details>
+  <summary><a href="https://redis-docs.ru/commands/?group=string">Command</a></summary>
+  <ul>
+    <li>
+      <details>
+        <summary>Append</summary>
+      </details>
+    </li>
+  </ul>
   <details>
     <summary>Decr</summary>
   </details>
